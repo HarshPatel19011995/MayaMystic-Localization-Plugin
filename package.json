@@ -1,0 +1,63 @@
+{
+  "name": "com.mayamystic.localization",
+  "version": "1.0.0",
+  "displayName": "MayaMystic Localization",
+  "description": "Modular and scalable localization framework for Unity. Provides runtime language switching, screen-based localization assets, RTL language support, dynamic font management, localized UI utilities, input field localization support, ScriptableObject-driven workflows, and extensible localization architecture for production-ready Unity applications.",
+  "unity": "2021.3",
+
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+
+  "icon": "icon.png",
+
+  "author": {
+    "name": "Harsh Patel",
+    "company": "MayaMystic",
+    "url": "https://github.com/HarshPatel19011995"
+  },
+
+  "keywords": [
+    "localization",
+    "language",
+    "translation",
+    "rtl",
+    "hebrew",
+    "arabic",
+    "font",
+    "runtime",
+    "unity",
+    "framework",
+    "ui",
+    "multilingual",
+    "internationalization",
+    "localisation",
+    "text",
+    "tmp",
+    "localization-system",
+    "scriptableobject"
+  ],
+
+  "license": "Proprietary",
+
+  "licensesUrl": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin/blob/main/LICENSE.md",
+
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "Demonstrates runtime language switching, localized UI refresh, RTL alignment handling, dynamic font switching, and localization utility workflows.",
+      "path": "Samples~/Basic Usage"
+    }
+  ],
+
+  "documentationUrl": "https://harshpatel19011995.github.io/MayaMystic-Localization-Plugin-Plugin/index.html",
+
+  "changelogUrl": "https://raw.githubusercontent.com/HarshPatel19011995/MayaMystic-Localization-Plugin/main/CHANGELOG.md",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin"
+  },
+
+  "homepage": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin"
+}
