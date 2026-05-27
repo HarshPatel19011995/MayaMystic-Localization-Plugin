@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "displayName": "MayaMystic Localization",
   "description": "Modular and scalable localization framework for Unity. Provides runtime language switching, screen-based localization assets, RTL language support, dynamic font management, localized UI utilities, input field localization support, ScriptableObject-driven workflows, and extensible localization architecture for production-ready Unity applications.",
+
   "unity": "2021.3",
+  "type": "library",
 
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6"
@@ -40,7 +42,7 @@
 
   "license": "Proprietary",
 
-  "licensesUrl": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin/blob/main/LICENSE.md",
+  "licenseUrl": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin/blob/main/LICENSE.md",
 
   "samples": [
     {
@@ -56,8 +58,14 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin"
+    "url": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin.git"
   },
 
-  "homepage": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin"
+  "bugs": {
+    "url": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin/issues"
+  },
+
+  "homepage": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin",
+
+  "reviewUrl": "https://github.com/HarshPatel19011995/MayaMystic-Localization-Plugin/discussions"
 }
