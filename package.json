@@ -48,7 +48,7 @@
     {
       "displayName": "Basic Usage",
       "description": "Demonstrates runtime language switching, localized UI refresh, RTL alignment handling, dynamic font switching, and localization utility workflows.",
-      "path": "Samples~/Basic Usage"
+      "path": "Samples~/BasicUsage"
     }
   ],
 
