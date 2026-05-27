@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HarshPatel19011995/MayaMystic-Localization/main/Documentation~/logo.png" width="90"/>
+<img src="https://raw.githubusercontent.com/HarshPatel19011995/MayaMystic-Localization-Plugin/main/Documentation~/logo.png" width="90"/>
 
 <h1>🌍 MayaMystic Localization</h1>
 
@@ -17,7 +17,7 @@
 <!-- BANNER -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/HarshPatel19011995/MayaMystic-Localization/main/.github/banner.png" width="900"/>
+<img src="https://raw.githubusercontent.com/HarshPatel19011995/MayaMystic-Localization-Plugin/main/.github/banner.png" width="900"/>
 </p>
 
 <hr>
